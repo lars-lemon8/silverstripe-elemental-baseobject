@@ -18,12 +18,12 @@
     ],
     "require": {
         "dnadesign/silverstripe-elemental": "^6",
-        "silvershop/silverstripe-hasonefield": "^4",
-        "silverstripe/linkfield": "^4.0",
-        "unclecheese/display-logic": "^3"
+        "silvershop/silverstripe-hasonefield": "^4 || ^5",
+        "silverstripe/linkfield": "^4.0 || ^5",
+        "unclecheese/display-logic": "^3 || ^4"
     },
     "require-dev": {
-        "silverstripe/recipe-testing": "^3",
+        "silverstripe/recipe-testing": "^3 || ^4",
         "silverstripe/frameworktest": "^1"
     },
     "minimum-stability": "dev",
